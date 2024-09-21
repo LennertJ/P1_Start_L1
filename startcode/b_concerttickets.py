@@ -10,3 +10,4 @@
 #
 # Voorbeelduitvoer:
 # De totale prijs bedraagt 31.65 euro.
+#mijn oefening werkt nu
